@@ -1,0 +1,2 @@
+# xd
+Potrzebuje skrypty ryze
